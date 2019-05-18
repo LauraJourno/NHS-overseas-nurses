@@ -10,25 +10,30 @@ background {color: #FDFDF9;}
 div#maintitle {
        text-align: center;
        font-size: 40px;
+	height: 100px;
 }
 
 div#column1 {
 	float: left;
-	width: 600px;
-	padding: 20px;
+	width: 60%;
+	padding: 2%;
     
 }
 
 div#column2 {
       text-align: justify;
 	float: left;
-	width: 360px;
-	padding: 20px;
+	width: 36%;
+	padding: 2%;
 }
 
 div#column3 {
        text-align: justify;
 	position: relative;
+	top: 60%
+	bottom:0
+	left:2%
+	right:2%
 }
 
       
