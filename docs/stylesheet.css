@@ -12,7 +12,7 @@ div#column1 {
 }
 
 div#column2 {
-       float: left; 
+       float: right; 
        width: 25%; 
        padding: 20px; 
 }
