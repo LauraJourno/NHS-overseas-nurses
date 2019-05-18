@@ -7,7 +7,7 @@ div#maintitle {
 
 div#column1 {
        float: left; 
-       width: 690px; 
+       width: 660px; 
        padding: 30px;
   
 }
@@ -15,7 +15,7 @@ div#column1 {
 div#column2 {
        text-align: justify;
        float: left; 
-       width: 290px;
+       width: 260px;
        padding: 30px;
        
 }
