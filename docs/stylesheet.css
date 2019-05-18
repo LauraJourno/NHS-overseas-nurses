@@ -21,8 +21,8 @@ div#column2 {
 
 div#column3 {
        text-align: justify;
+       float: left;
        width: 100%;
-       padding: 10px
               
 }
       
