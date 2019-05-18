@@ -7,13 +7,13 @@ div#maintitle {
 
 div#column1 {
        float: left; 
-       width: 75%; 
+       width: 700px; 
   
 }
 
 div#column2 {
-       float: right; 
-       width: 25%; 
+       float: left; 
+       width: 300px; 
 }
       
 
