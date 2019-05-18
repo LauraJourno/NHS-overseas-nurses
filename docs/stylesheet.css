@@ -18,6 +18,13 @@ div#column2 {
        width: 200px;
        padding: 10px
 }
+
+div#column3 {
+       text-align: justify;
+       width: 100%;
+       padding: 10px
+              
+}
       
 
        
