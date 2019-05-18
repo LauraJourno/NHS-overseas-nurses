@@ -7,16 +7,16 @@ div#maintitle {
 
 div#column1 {
 	float: left;
-	width: 60%;
-	padding: 2%;
+	width: 600px;
+	padding: 20px;
     
 }
 
 div#column2 {
       text-align: justify;
 	float: left;
-	width: 36%;
-	padding: 2%;
+	width: 360px;
+	padding: 20px;
 }
 
 p {
