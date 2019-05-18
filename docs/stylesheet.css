@@ -6,28 +6,30 @@ div#maintitle {
 }
 
 div#column1 {
-       float: left;
-       width: 400px; 
-       padding: 10px;
-  
-}
+       position: absolute; 
+       top: 10px; 
+       bottom: 0px; 
+       left: 10px; 
+       right: 400px; }
 
 div#column2 {
-       text-align: justify;
-       float: left; 
-       width: 200px;
-       padding: 10px
+      text-align: justify;
+      position: absolute;
+      top: 10px;
+      bottom: 0px;
+      left: 500px;
+      right: 10px;                            
 }
 
 div#column3 {
        text-align: justify;
-       float: left;
-       width: 100%;
-              
+       position: relative;
+       bottom: 10px;
+       left: 10px;
+       right: 10px;
 }
-      
 
-       
+      
 
 
 
