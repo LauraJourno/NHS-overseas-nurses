@@ -1,5 +1,11 @@
-<!DOCTYPE css>
-h1 {fontsize: 40px; color: red; text align:"centre"}
-p {fontsize: 25px; color: blue}
+p {font-family: Arial, sans-serif; color: #0000FF; font-size: 120%; }
 
-</css>
+h1 {font-family: Verdana, sans-serif; color: red; font-size: 200%; }
+
+/* Another style of CSS coding which you can use is below. Many people prefer to use this; especially on commercial projects where someone else may have to read your code. It's up to you which way you write your CSS */
+
+p {
+       font-family: Arial, Helvetica, sans-serif;
+       color: #0000FF;
+       font-size: 120%;
+       }
