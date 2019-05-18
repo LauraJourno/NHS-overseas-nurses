@@ -1,3 +1,8 @@
+website-width {
+    min-width: 0;
+    max-width: 1000px;
+}
+
 background {color: #FDFDF9;}  
 
 div#maintitle {
