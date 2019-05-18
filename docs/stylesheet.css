@@ -1,16 +1,17 @@
-h1 {font-family: Verdana, 
-       sans-serif; 
-       color: red; 
-       font-size: 200%;
-       text-align: center;
-}
-
-p {font-family: Arial, sans-serif; 
-       color: #0000FF; 
-       font-size: 120%; 
-}
-
 background {color: #FDFDF9;}  
+
+div#maintitle {
+       text-align: centre;
+       font-size: 40px;
+}
+
+div#flourish {
+       pading: 25%;
+       text-color: red;
+}
+       
+
+
 
 
 
