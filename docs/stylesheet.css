@@ -5,10 +5,19 @@ div#maintitle {
        font-size: 40px;
 }
 
-div#flourishblock {
-       pading: 25%;
-       text-color: red;
+div#column1 {
+       float: left; 
+       width: 75%; 
+       padding: 10px; 
 }
+
+div#column2 {
+       float: left; 
+       width: 25%; 
+       padding: 20px; 
+}
+      
+
        
 
 
