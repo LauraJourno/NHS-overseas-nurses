@@ -8,15 +8,15 @@ div#maintitle {
 div#column1 {
 	float: left;
 	width: 750px;
-	padding: 40px;
+	padding: 20px;
     
 }
 
 div#column2 {
       text-align: justify;
 	float: left;
-	width: 400px;
-	padding: 40px;
+	width: 350px;
+	padding: 20px;
 }
 
 p {
