@@ -11,6 +11,10 @@ div#column1 {
 	padding: 20px;
     
 }
+div#intro {
+	text-align: center;
+	font-size: 20px
+}
 
 div#column2 {
       text-align: justify;
