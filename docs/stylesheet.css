@@ -2,7 +2,7 @@ background {
 	color: #FDFDF9;
 } 
 
- @page { 
+page { 
 	 margin: 3cm;
 } 
 
@@ -12,23 +12,21 @@ div#maintitle {
        text-align: center;
        font-size: 40px;
 }
+div#list {
+	text-align: justify;
+	font-size: 20px;
+}
+
+div#intro {
+	text-align: justify;
+	font-size: 20px;
+}
 
 div#column1 {
 	float: left;
 	width: 750px;
 	padding: 20px;
     
-}
-div#list {
-	text-align: justify;
-	font-size: 20px;
-		
-}
-
-div#intro {
-	text-align: justify;
-	font-size: 20px;
-	padding: 20px;
 }
 
 div#column2 {
