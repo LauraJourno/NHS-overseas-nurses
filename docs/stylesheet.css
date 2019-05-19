@@ -11,11 +11,15 @@ div#column1 {
 	padding: 20px;
     
 }
-div#intro {
-	text-align: center;
+div#list {
+	text-align: justify;
 	font-size: 20px;
-	padding: 20px
 		
+}
+
+div#intro {text-align: justify;
+	font-size: 20px;
+	padding 20px;
 }
 
 div#column2 {
