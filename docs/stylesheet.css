@@ -1,5 +1,12 @@
-background {color: #FDFDF9;}  
+background {
+	color: #FDFDF9;
+} 
 
+index.html {
+	margin: 25px;
+}
+
+	
 div#maintitle {
        text-align: center;
        font-size: 40px;
