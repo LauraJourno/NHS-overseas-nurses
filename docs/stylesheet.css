@@ -2,9 +2,10 @@ background {
 	color: #FDFDF9;
 } 
 
-index.html {
-	margin: 25px;
-}
+ @page { 
+	 margin: 2cm;
+} 
+
 
 	
 div#maintitle {
