@@ -5,9 +5,18 @@ background {
 page { 
 	 margin: 3cm;
 } 
+.parallax { 
 
+  background-color: #515151;
 
-	
+  height: 100%; 
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 div#maintitle {
        text-align: center;
        font-size: 40px;
