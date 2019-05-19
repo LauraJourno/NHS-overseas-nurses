@@ -13,7 +13,9 @@ div#column1 {
 }
 div#intro {
 	text-align: center;
-	font-size: 20px
+	font-size: 20px;
+	padding: 20px
+		
 }
 
 div#column2 {
