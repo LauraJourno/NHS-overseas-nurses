@@ -17,9 +17,10 @@ div#list {
 		
 }
 
-div#intro {text-align: justify;
+div#intro {
+	text-align: justify;
 	font-size: 20px;
-	padding 20px;
+	padding: 20px;
 }
 
 div#column2 {
