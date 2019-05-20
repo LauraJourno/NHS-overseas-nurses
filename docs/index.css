@@ -1,4 +1,4 @@
-/*style for main title section*/
+/*style nav bar*/
 .nav-bar {
 	background-color: black;
 	height: 300px;
@@ -6,6 +6,7 @@
 	text-align: center;
 	
 }
+/*parallax background*/
 .image {
 	background-image: url (../docs/background image.jpg);
 	padding: 100px;
