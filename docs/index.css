@@ -8,7 +8,7 @@
 }
 /*parallax background*/
 .image {
-	background-image: url (../docs/background image.jpg);
+	background-image: url (../docs/background-image.jpg);
 	padding: 100px;
 	height: 300px;
 	background-attachment: fixed;
