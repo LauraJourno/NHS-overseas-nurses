@@ -6,9 +6,20 @@ page {
 	 margin: 20px;
 } 
 
+h1{
+	font-size: 40px;
+}
+
 h2 {
 	font-size: 30px;
 }
+
+p {
+       text-align: justify;
+}
+      
+
+
 
 div#maintitle {
        text-align: center;
@@ -39,10 +50,7 @@ div#column2 {
 	padding: 20px;
 }
 
-p {
-       text-align: justify;
-}
-      
+
 
 
 
