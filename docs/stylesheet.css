@@ -1,28 +1,3 @@
-body, html {
-  height: 100%;
-}
-
-.bg { 
-
-  background-image: "background-image.jpg";
-
-  height: 100%; 
-
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-	opacity: 75%;
-}	
-	
-
-background {
-	color: #FDFDF9;
-} 
-
-page { 
-	 margin: 20px;
-} 
-
 h1{
 	font-size: 40px;
 }
