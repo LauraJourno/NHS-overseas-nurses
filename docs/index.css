@@ -1,5 +1,12 @@
 /*style for main title section*/
-.main-title {
+.nav-bar {
+	background-color: black;
+	height: 300px;
+	font-color: white;
+	text-align: center;
+	
+}
+.image {
 	background-image: url (../docs/background image.jpg);
 	padding: 100px;
 	height: 300px;
