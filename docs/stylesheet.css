@@ -3,8 +3,12 @@ background {
 } 
 
 page { 
-	 margin: 3cm;
+	 margin: 6cm;
 } 
+
+h2 {
+	font-size: 30px;
+}
 
 div#maintitle {
        text-align: center;
@@ -31,6 +35,7 @@ div#column2 {
       text-align: justify;
 	float: left;
 	width: 350px;
+	font-size: 20px;
 	padding: 20px;
 }
 
