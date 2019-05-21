@@ -54,15 +54,14 @@
   width: 500px;
   padding:20px;
  
-.philippines{
-  font-size: 20px;
-  font-family: arial;
-text-align: justify;
-float: left;
-  color: blue;
-  padding: 20px;
+.philippines {
+	font-size: 20px;
+	color: #030266;
+	ext-align: justify;
+  	font-family: arial;
+	background-color: grey;
+	float:left;
+	width: 300px;
+	padding: 20px;
+	}
   
-  }
-
-
-
