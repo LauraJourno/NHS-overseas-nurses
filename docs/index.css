@@ -12,14 +12,14 @@ border-width:5px;
 	background-image:url(https://github.com/LauraJourno/NHS-overseas-nurses/blob/master/docs/NHS%20nurse.jpg?raw=true);
 	height: 250px;
 	padding: 100px;
-  background-attachment: fixed;
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  font-family:arial;
-  color: white;
-  font-size: 20px;
-  font-weight: light;
+  	background-attachment: fixed;
+  	background-position: center;
+  	background-size: cover;
+  	background-repeat: no-repeat;
+  	font-family:arial;
+  	color: white;
+  	font-size: 20px;
+  	font-weight: light;
 }
 /*bullet points*/
 #section1{ 
