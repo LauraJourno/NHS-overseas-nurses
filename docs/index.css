@@ -1,3 +1,5 @@
+border-width:5px;
+
 /*style title bar*/
 .top-bar{
   height: 100px;
@@ -20,7 +22,7 @@
   font-weight: light;
 }
 
-.list{ 
+.section1{ 
   color: #030266;
   font-family:arial;
   font-weight: lighter;
@@ -43,7 +45,8 @@
   float: right;
 }
 
-.intro{
+/*intro*/
+.section2 {
   font-size: 20px;
   color: white;
   text-align: justify;
@@ -54,10 +57,11 @@
   width: 500px;
   padding:20px;
  
-.philippines {
+/*philippines*/
+.section3 {
 	font-size: 20px;
 	color: #030266;
-	ext-align: justify;
+	text-align: justify;
   	font-family: arial;
 	background-color: grey;
 	float:left;
@@ -65,3 +69,11 @@
 	padding: 20px;
 	}
   
+/*WHOs to blame*/
+.section4 {
+	font-size: 20px;
+	text-align: justify;
+  	font-family: arial;
+	width: 300px;
+	padding: 20px;
+	}
