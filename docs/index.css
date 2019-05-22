@@ -1,14 +1,14 @@
 border-width:5px;
 
 /*style title bar*/
-.top-bar{
+#top-bar{
   height: 100px;
   pading: 20px;
   background-color:#030266;   
 }
 
 /*style for parallax*/
-.parallax {
+#parallax {
 	background-image:url(https://github.com/LauraJourno/NHS-overseas-nurses/blob/master/docs/NHS%20nurse.jpg?raw=true);
 	height: 250px;
 	padding: 100px;
@@ -21,8 +21,8 @@ border-width:5px;
   font-size: 20px;
   font-weight: light;
 }
-
-.section1{ 
+/*bullet points*/
+#section1{ 
   color: #030266;
   font-family:arial;
   font-weight: lighter;
@@ -35,18 +35,18 @@ border-width:5px;
   padding: 3%;  
 }
 
-.li {
+li {
   margin-bottom:9px;
 }
 
-
+/*flourish embed*/
 .flourish-embed {
   width: 67%; 
   float: right;
 }
 
 /*intro*/
-.section2 {
+#section2 {
   font-size: 20px;
   color: white;
   text-align: justify;
@@ -58,7 +58,7 @@ border-width:5px;
   padding:20px;
  
 /*philippines*/
-.section3 {
+#section3 {
 	font-size: 20px;
 	color: #030266;
 	text-align: justify;
@@ -70,7 +70,7 @@ border-width:5px;
 	}
   
 /*WHOs to blame*/
-.section4 {
+#section4 {
 	font-size: 20px;
 	text-align: justify;
   	font-family: arial;
